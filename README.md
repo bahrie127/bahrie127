@@ -1,6 +1,6 @@
 ### Hi there, my name bahri 👋
 
-I'm a software engineer & Consultant at [Jago Flutter](https://jagoflutter.com) in Sleman, Special Region of Yoygakarta, Indonesia 🌆
+I'm a software engineer & Consultant at [Jago Flutter](https://jagoflutter.com) in Sleman, Special Region of Yogyakarta, Indonesia 🌆
 
 - 🔭 I’m currently learn flutter bloc and use it to build a software
 - ☕ my hobby is cycling
